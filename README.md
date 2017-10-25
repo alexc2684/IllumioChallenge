@@ -6,4 +6,4 @@ Another tradeoff I had to decide on was the type I was storing each port and IP 
 
 For testing, I tested the standard cases given, as well as ensured that both single value and ranged values all worked (making sure to be inclusive in the ranges). I also tested for incorrect parameters, and the case where there was a repeat port. This case was tested and also added to the test.csv file I have attached.
 
-I would be really interested in working for the Data Team. I've never worked with data in a cyber security setting, and it seems really interesting how the team integrates network data with data from the Policy Compute Engine. Thank you!
+I would be really interested in working for the Data Team. I've never worked with data in a cyber security setting, and it seems really interesting how the team integrates network data with data from the Policy Compute Engine. I would also pick the Policy Team as my second choice. Thank you!
